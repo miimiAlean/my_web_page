@@ -7,3 +7,4 @@
 ### git revert 
 ### git checkout main
 ### git merge new_feature
+### git push origin main
